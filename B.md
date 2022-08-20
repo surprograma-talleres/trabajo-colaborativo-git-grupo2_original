@@ -21,4 +21,7 @@ debería de bajar cuando Pablo haga las modificaciones pertinentes
 
 Gracias Silvana por el parrafo.
 
+De nada. Sabía que mi contribución era de suma importancia
+para llevar a cabo este proyecto
+
 # ⚠️⚠️ Este es el CAMBIO archivo de **B** ⚠️⚠️
