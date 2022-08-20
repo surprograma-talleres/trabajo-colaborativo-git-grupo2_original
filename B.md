@@ -1,4 +1,4 @@
-# ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
+# ⚠️⚠️ YA NO ENTIENDO MÁS NADA **B** ⚠️⚠️
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Nulla hendrerit orci elit, sit amet molestie lacus lacinia quis.
