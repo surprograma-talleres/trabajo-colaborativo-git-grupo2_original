@@ -1,4 +1,4 @@
-# ⚠️⚠️ YA NO ENTIENDO MÁS NADA **B** ⚠️⚠️
+# ⚠️⚠️ Este CAMBIO es el archivo de **B** ⚠️⚠️
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Nulla hendrerit orci elit, sit amet molestie lacus lacinia quis.
@@ -7,4 +7,4 @@ Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
 
 agregué una linea
 
-# ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
+# ⚠️⚠️ Este es el CAMBIO archivo de **B** ⚠️⚠️
