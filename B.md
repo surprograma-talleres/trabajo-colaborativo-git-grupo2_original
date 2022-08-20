@@ -7,4 +7,7 @@ Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
 
 agregué una linea
 
+Estoy agregando un nuevo párrafo sobre una línea que calculo
+debería de bajar cuando Pablo haga las modificaciones pertinentes
+
 # ⚠️⚠️ Este es el CAMBIO archivo de **B** ⚠️⚠️
