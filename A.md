@@ -1,8 +1,8 @@
-# ⚠️⚠️ Este es el archivo de **A** ⚠️⚠️
+# ESTO ES UN CAMBIO EN LA PRIMERA cambiado de **A** BASTA CHICOS! **A** ⚠️⚠️
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nulla hendrerit orci elit, sit amet molestie lacus lacinia quis.
-Sed pellentesque lectus ultrices, auctor est sed, maximus nisl.
-Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
+A VER SI SACAMOS ALGO EN LIMPIO DE TODO ESTO
+Nulla hendrerit orci Otro mas elit, sit amet molestie lacus Algo mas quis.
+Sed pellentesque lectus ultrices, est sed, maximus nisl.
+Ut elit turpis, fermentum non urna sed, feugiat velit.
 
-# ⚠️⚠️ Este es el archivo de **A** ⚠️⚠️
+# ⚠️⚠️ _Este es el archivo_ de **A** ⚠️⚠️
