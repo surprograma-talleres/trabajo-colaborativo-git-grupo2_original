@@ -1,6 +1,6 @@
 # ⚠️⚠️ _Este es el_ archivo cambiado de **A** ⚠️⚠️
 
-Hola que tal  dolor esta linea cambio sit amet, consectetur adipiscing elit.
+A VER SI SACAMOS ALGO EN LIMPIO DE TODO ESTO
 Nulla hendrerit orci Otro mas elit, sit amet molestie lacus Algo mas quis.
 Sed pellentesque lectus ultrices, auctor est sed, maximus nisl.
 Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
